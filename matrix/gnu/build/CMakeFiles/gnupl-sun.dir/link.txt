@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-sun.a CMakeFiles/gnupl-sun.dir/gnupl-sun.cpp.o
+/usr/bin/ranlib libgnupl-sun.a

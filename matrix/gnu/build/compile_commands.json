@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Workspace/gnupl-sun/gnu/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/gnupl-sun.dir/gnupl-sun.cpp.o -c /home/denis/Workspace/gnupl-sun/gnu/gnupl-sun.cpp",
+  "file": "/home/denis/Workspace/gnupl-sun/gnu/gnupl-sun.cpp"
+}
+]

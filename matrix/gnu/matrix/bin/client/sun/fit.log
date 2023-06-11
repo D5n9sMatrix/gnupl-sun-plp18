@@ -1,0 +1,518 @@
+
+
+*******************************************************************************
+Sun Jun  5 15:13:08 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/data/PL_spectrum_mu_1.0eV_E0_05meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [1.30000 : 1.34000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4503984688e+04   0.00e+00  1.17e+00    1.000000e+00   1.000000e+00
+   6 2.7206075001e-03  -4.84e-08  1.17e-05    1.581835e+02  -1.877660e+02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.00272061
+rel. change during last iteration : -4.83956e-13
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0083522
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.97592e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 158.183          +/- 0.1102       (0.06969%)
+b               = -187.766         +/- 0.1455       (0.0775%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 15:13:08 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/data/PL_spectrum_mu_1.0eV_E0_10meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [1.13000 : 1.27000]
+        #datapoints = 141
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.5934442817e+04   0.00e+00  1.89e+02    1.581835e+02  -1.877660e+02
+   5 8.6750790482e-01  -4.61e-10  1.89e+00    7.360033e+01  -6.331661e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.867508
+rel. change during last iteration : -4.60722e-15
+
+degrees of freedom    (FIT_NDF)                        : 139
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0790004
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00624106
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 73.6003          +/- 0.1635       (0.2221%)
+b               = -63.3166         +/- 0.1963       (0.31%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.999  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 15:13:08 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/data/PL_spectrum_mu_1.0eV_E0_20meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [0.920000 : 0.960000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.8993450718e+04   0.00e+00  6.63e+01    7.360033e+01  -6.331661e+01
+   5 1.5130704193e-04  -2.91e-01  6.63e-04    4.671040e+01  -1.651907e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000151307
+rel. change during last iteration : -2.91103e-06
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00196969
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.87967e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 46.7104          +/- 0.026        (0.05566%)
+b               = -16.5191         +/- 0.02444      (0.148%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 15:13:08 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/data/PL_spectrum_mu_1.0eV_E0_40meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [0.790000 : 0.830000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.9293206825e+03   0.00e+00  2.92e+01    4.671040e+01  -1.651907e+01
+   6 2.7834923641e-05   0.00e+00  2.92e+02    2.428075e+01   1.720877e+01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 2.78349e-05
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000844817
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.13716e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 24.2808          +/- 0.01115      (0.04592%)
+b               = 17.2088          +/- 0.009033     (0.05249%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 15:13:08 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/data/PL_spectrum_mu_1.0eV_E0_60meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [0.730000 : 0.770000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.3459071202e+03   0.00e+00  1.77e+01    2.428075e+01   1.720877e+01
+   5 1.4260885301e-05  -3.44e-02  1.77e-04    1.662574e+01   2.867879e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.42609e-05
+rel. change during last iteration : -3.44096e-07
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000604701
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.65664e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 16.6257          +/- 0.007982     (0.04801%)
+b               = 28.6788          +/- 0.005987     (0.02088%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 15:13:08 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/data/PL_spectrum_mu_1.0eV_E0_80meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [0.710000 : 0.750000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5855232404e+02   0.00e+00  2.20e+01    1.662574e+01   2.867879e+01
+   5 9.7608843383e-06  -1.20e-01  2.20e-04    1.262921e+01   3.455311e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 9.76088e-06
+rel. change during last iteration : -1.1965e-06
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000500279
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.50279e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 12.6292          +/- 0.006603     (0.05229%)
+b               = 34.5531          +/- 0.004821     (0.01395%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 15:13:08 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/data/PL_spectrum_mu_1.0eV_E0_100meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [1.22000 : 1.61000]
+        #datapoints = 391
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 5.0217214144e+04   0.00e+00  2.75e+01    1.262921e+01   3.455311e+01
+   4 1.4055684588e+01  -2.90e-05  2.75e-03   -2.514822e+01   7.750983e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 14.0557
+rel. change during last iteration : -2.90194e-10
+
+degrees of freedom    (FIT_NDF)                        : 389
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.190086
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0361329
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -25.1482         +/- 0.08517      (0.3387%)
+b               = 77.5098          +/- 0.1209       (0.156%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.997  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 20:34:57 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/doc/PL_spectrum_mu_1.0eV_E0_05meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [1.30000 : 1.34000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4503984688e+04   0.00e+00  1.17e+00    1.000000e+00   1.000000e+00
+   6 2.7206075001e-03  -4.84e-08  1.17e-05    1.581835e+02  -1.877660e+02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.00272061
+rel. change during last iteration : -4.83956e-13
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0083522
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.97592e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 158.183          +/- 0.1102       (0.06969%)
+b               = -187.766         +/- 0.1455       (0.0775%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 20:34:57 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/doc/PL_spectrum_mu_1.0eV_E0_10meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [1.13000 : 1.27000]
+        #datapoints = 141
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.5934442817e+04   0.00e+00  1.89e+02    1.581835e+02  -1.877660e+02
+   5 8.6750790482e-01  -4.61e-10  1.89e+00    7.360033e+01  -6.331661e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.867508
+rel. change during last iteration : -4.60722e-15
+
+degrees of freedom    (FIT_NDF)                        : 139
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0790004
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00624106
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 73.6003          +/- 0.1635       (0.2221%)
+b               = -63.3166         +/- 0.1963       (0.31%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.999  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 20:34:57 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/doc/PL_spectrum_mu_1.0eV_E0_20meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [0.920000 : 0.960000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.8993450718e+04   0.00e+00  6.63e+01    7.360033e+01  -6.331661e+01
+   5 1.5130704193e-04  -2.91e-01  6.63e-04    4.671040e+01  -1.651907e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000151307
+rel. change during last iteration : -2.91103e-06
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00196969
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.87967e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 46.7104          +/- 0.026        (0.05566%)
+b               = -16.5191         +/- 0.02444      (0.148%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 20:34:57 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/doc/PL_spectrum_mu_1.0eV_E0_40meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [0.790000 : 0.830000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.9293206825e+03   0.00e+00  2.92e+01    4.671040e+01  -1.651907e+01
+   6 2.7834923641e-05   0.00e+00  2.92e+02    2.428075e+01   1.720877e+01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 2.78349e-05
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000844817
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.13716e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 24.2808          +/- 0.01115      (0.04592%)
+b               = 17.2088          +/- 0.009033     (0.05249%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 20:34:57 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/doc/PL_spectrum_mu_1.0eV_E0_60meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [0.730000 : 0.770000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.3459071202e+03   0.00e+00  1.77e+01    2.428075e+01   1.720877e+01
+   5 1.4260885301e-05  -3.44e-02  1.77e-04    1.662574e+01   2.867879e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.42609e-05
+rel. change during last iteration : -3.44096e-07
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000604701
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.65664e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 16.6257          +/- 0.007982     (0.04801%)
+b               = 28.6788          +/- 0.005987     (0.02088%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 20:34:57 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/doc/PL_spectrum_mu_1.0eV_E0_80meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [0.710000 : 0.750000]
+        #datapoints = 41
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.5855232404e+02   0.00e+00  2.20e+01    1.662574e+01   2.867879e+01
+   5 9.7608843383e-06  -1.20e-01  2.20e-04    1.262921e+01   3.455311e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 9.76088e-06
+rel. change during last iteration : -1.1965e-06
+
+degrees of freedom    (FIT_NDF)                        : 39
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000500279
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.50279e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 12.6292          +/- 0.006603     (0.05229%)
+b               = 34.5531          +/- 0.004821     (0.01395%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Sun Jun  5 20:34:57 2022
+
+
+FIT:    data read from "/home/denis/Workspace/gnupl-sun/matrix/bin/doc/PL_spectrum_mu_1.0eV_E0_100meV_300K.dat" u 1:(log($2))
+        format = x:z
+        x range restricted to [1.22000 : 1.61000]
+        #datapoints = 391
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 5.0217214144e+04   0.00e+00  2.75e+01    1.262921e+01   3.455311e+01
+   4 1.4055684588e+01  -2.90e-05  2.75e-03   -2.514822e+01   7.750983e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 14.0557
+rel. change during last iteration : -2.90194e-10
+
+degrees of freedom    (FIT_NDF)                        : 389
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.190086
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0361329
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -25.1482         +/- 0.08517      (0.3387%)
+b               = 77.5098          +/- 0.1209       (0.156%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.997  1.000 
